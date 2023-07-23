@@ -8,6 +8,11 @@
 ![email](https://img.shields.io/badge/email-sjr06060%40naver.com-EC8034)
 [![blog](https://img.shields.io/badge/blog-github.blog%2F%40seojeongrok-CC0000)](https://seojeongrok.github.io)
 
+## 🔨 Skills
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ## 📈 Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=seojeongrok&show_icons=true&hide_border=true" alt="Jeongrok's GitHub Stats">
